@@ -1,0 +1,38 @@
+h1{
+    color: slateblue;
+    background-color: red;
+    font-size: 5pxw;
+
+  
+}
+
+h2{
+    color: #00ff00;
+    background-color: orange;
+}
+
+h3{
+    color: #15C;
+    background-color: yellow;
+}
+
+h4{
+    color: #dfdf55;
+    background-color: green;
+}
+
+h5{
+    color: rgba(0, 0, 087, 0.5);
+    background-color: blue;
+}
+
+    h6{
+    color: #00ff
+    background-color: indigo;
+}
+
+p{
+color: rgb(255, 0, 0);
+background-color: violet;
+}
+
